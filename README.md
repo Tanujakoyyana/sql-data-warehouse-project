@@ -110,3 +110,52 @@ This project is licensed under the [MIT License]_(LICENSE). You are free to use,
 ## About Me
 
 Hi there! I'm **Tanuja Koyyana**.
+
+
+## Project Structure
+
+```text
+├── datasets/                     # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/                         # Project documentation and architecture details
+│   ├── etl.drawio                # Draw.io file showing ETL techniques and methods
+│   ├── data_architecture.drawio  # Draw.io file showing the project's architecture
+│   ├── data_catalog.md           # Catalog of datasets, including field descriptions and metadata
+│   ├── data_flow.drawio          # Draw.io file for the data flow diagram
+│   ├── data_model.drawio         # Draw.io file for data models (star schema)
+│   └── naming_convent.md         # Naming guidelines for tables, columns, and files
+│
+├── scripts/                      # SQL scripts for ETL and transformations
+│   ├── bronze/                   # Scripts for extracting and loading raw data
+│   ├── silver/                   # Scripts for cleaning and transforming data
+│   └── gold/                     # Scripts for creating analytical models
+│
+├── tests/                        # Test scripts and quality files
+│
+├── README.md                     # Project overview and instructions
+├── LICENSE                       # License information for the repository
+├── .gitignore                    # Files and directories to be ignored by Git
+└── requirements.txt              # Dependencies and requirements for the project
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
