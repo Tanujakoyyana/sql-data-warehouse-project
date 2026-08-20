@@ -101,7 +101,7 @@ data-warehouse-project/
 |-- .gitignore                               # Files and directories to be ignored bt Git
 |-- requirements                             # Dependencies and requirements for the project
 |
-
+================================================================================================================
 
 ## License
 
