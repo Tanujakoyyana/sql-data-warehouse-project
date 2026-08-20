@@ -68,7 +68,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 
 
-
+--
 1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL server Databases.
 2.Silver Layer: This layer includes data cleaning, standardization, and normalization processes to prepare data for
 analysis.
