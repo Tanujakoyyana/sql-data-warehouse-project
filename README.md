@@ -77,30 +77,31 @@ analysis.
 --
 ## Repository Structure
 
+'''text
 ## data-warehouse-project/
-*|
-*├── datasets/                                # Raw datasets used for the project ( EPR and CRM data)
-*|
-*├── '''docs/                                    # Project documentation and architecture datails.
-*|    ├── etl.drawio                          # Draw.io file shows all different techniquies and methods of E .
-*|    ├── data_architecture.drawio            # Draw.io file shows the project's architecture.
-*|    ├── data_catalog.md                     # Catalog of datasets, including field descriptions and metadata.
-*|    ├── data_flow.drawio                    # Draw.io file for the data flow diagram.
-*|    ├── data_model.drawio                   # Draw.io file data models (star schema).
-*|    ├── naming_convent.md                   # Consistent naming guidelines for tables, columns, and files.
-*|
-*├── '''scripts/                              # SQL scripts for ETL and transformations.
-*|    ├── bronze/                             # Scripts for extracting and loading raw data.
-*|    ├── silver/                             # Scripts for cleaning and transforming data.
-*|    ├── gold/                               # Scripts for creating analytical models.
-*|
-*├── '''tests/                                # Test scripts and quality files.
-*|
-*├── README.MD                                # project overview and instructions.
-*├── LICENSE                                  # License information for the repository.
-*├── .gitignore                               # Files and directories to be ignored bt Git.
-*├── requirements.txt                         # Dependencies and requirements for the project.
-
+|
+├── datasets/                                # Raw datasets used for the project ( EPR and CRM data)
+|
+├── '''docs/                                    # Project documentation and architecture datails.
+|    ├── etl.drawio                          # Draw.io file shows all different techniquies and methods of E .
+|    ├── data_architecture.drawio            # Draw.io file shows the project's architecture.
+|    ├── data_catalog.md                     # Catalog of datasets, including field descriptions and metadata.
+|    ├── data_flow.drawio                    # Draw.io file for the data flow diagram.
+|    ├── data_model.drawio                   # Draw.io file data models (star schema).
+|    ├── naming_convent.md                   # Consistent naming guidelines for tables, columns, and files.
+|
+├── '''scripts/                              # SQL scripts for ETL and transformations.
+|    ├── bronze/                             # Scripts for extracting and loading raw data.
+|    ├── silver/                             # Scripts for cleaning and transforming data.
+|    ├── gold/                               # Scripts for creating analytical models.
+|
+├── '''tests/                                # Test scripts and quality files.
+|
+├── README.MD                                # project overview and instructions.
+├── LICENSE                                  # License information for the repository.
+├── .gitignore                               # Files and directories to be ignored bt Git.
+├── requirements.txt                         # Dependencies and requirements for the project.
+'''
 ================================================================================================================
 
 ## License
