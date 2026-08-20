@@ -100,7 +100,7 @@ analysis.
 ├── README.MD                                # project overview and instructions.
 ├── LICENSE                                  # License information for the repository.
 ├── .gitignore                               # Files and directories to be ignored bt Git.
-├── requirements.txt                         # Dependencies and requirements for the project.
+└── requirements.txt                         # Dependencies and requirements for the project.
 --
 ================================================================================================================
 
