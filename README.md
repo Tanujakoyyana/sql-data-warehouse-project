@@ -77,7 +77,7 @@ analysis.
 --
 ## Repository Structure
 
-'''text
+**text
 ## data-warehouse-project/
 |
 ├── datasets/                                # Raw datasets used for the project ( EPR and CRM data)
@@ -101,7 +101,7 @@ analysis.
 ├── LICENSE                                  # License information for the repository.
 ├── .gitignore                               # Files and directories to be ignored bt Git.
 ├── requirements.txt                         # Dependencies and requirements for the project.
-'''
+**
 ================================================================================================================
 
 ## License
