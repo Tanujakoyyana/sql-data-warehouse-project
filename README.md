@@ -62,9 +62,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 
 
-
-
-
  1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL server
    Database.
    
