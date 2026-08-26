@@ -52,16 +52,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## Data Architecture
 
-
-
-
-
-
-
-
-
-
-
  1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL server
    Database.
    
@@ -107,6 +97,7 @@ This project is licensed under the [MIT License]_(LICENSE). You are free to use,
 ## About Me
 
 Hi there! I'm **Tanuja Koyyana**.
+
 
 
 
